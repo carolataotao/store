@@ -2,22 +2,22 @@ This simple shopping cart prototype shows how React components can be used to bu
 
 Features
 
-Add and remove products from the cart
-multiply the quantity of selected product
-itemtotal, subtotal, tax and total can change by the quantity if items
-Responsive design
+1. Add and remove products from the cart
+2. multiply the quantity of selected product
+3. itemtotal, subtotal, tax and total can change by the quantity if items
+4. Responsive design
 
 Requirements
 
-Node.js
-NPM
+1. Node.js
+2. NPM
 
 Technology
 
-bootstrap4
-styled components
-using react router set up single page application
-reading source code with React-Context API
+1. bootstrap4
+2. styled components
+3. using react router set up single page application
+4. reading source code with React-Context API
 
 ## Available Scripts
 In the project directory, you can run:
