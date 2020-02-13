@@ -1,7 +1,25 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This simple shopping cart prototype shows how React components can be used to build a friendly user experience with instant visual updates and scaleable code in ecommerce applications.
+
+Features
+
+Add and remove products from the cart
+multiply the quantity of selected product
+itemtotal, subtotal, tax and total can change by the quantity if items
+Responsive design
+
+Requirements
+
+Node.js
+NPM
+
+Technology
+
+bootstrap4
+styled components
+using react router set up single page application
+reading source code with React-Context API
 
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
